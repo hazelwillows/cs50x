@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "helpers.h"
+#include "helpers.h" // This is where the functions I wrote for this project (the "main task") are. However, this file is what you need to run in order to filter the picture.
 
 int main(int argc, char *argv[])
 {
