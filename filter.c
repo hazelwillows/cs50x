@@ -2,7 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "helpers.h" // This is where the functions I wrote for this project (the "main task") are. However, this file is what you need to run in order to filter the picture.
+#include "helpers.h"
+// Note: a lot of code here was pre-written by CS50. The code that I wrote is the function for each filter type, stored in "helpers.c"
+// But you need to run this file (filter.c) not helpers.c in order to filter the pictures
 
 int main(int argc, char *argv[])
 {
